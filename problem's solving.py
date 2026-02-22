@@ -7,3 +7,8 @@ print(sum)
 # solving a problem for a list print 6 elements 
 list = ["apple", "Banana", 10, 20, 30, 40, 50, 60, 70, 80]
 print(list[:6])
+
+
+
+
+

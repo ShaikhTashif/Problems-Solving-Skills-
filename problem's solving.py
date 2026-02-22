@@ -8,7 +8,10 @@ print(sum)
 list = ["apple", "Banana", 10, 20, 30, 40, 50, 60, 70, 80]
 print(list[:6])
 
-
-
+# Function's to work in python
+def add(x):
+  x = 1 + 50
+  return 0
+print(add(0))
 
 
